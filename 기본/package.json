@@ -7,6 +7,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "r": "node index.js"
+    "r": "node rod.js"
   }
 }
